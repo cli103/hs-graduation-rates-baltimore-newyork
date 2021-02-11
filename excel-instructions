@@ -1,0 +1,13 @@
+Imported the data from Opportunity Atlas into Excel
+As the data records the graduation rates of each city by county, to calculate the average graduation rate for each city, use the average function (=average(:))
+Insert the national graduation rate provided by US News in the data (88%) in a new column
+Create a pivot table for each data set
+Set the county names as the axis
+Set the county rate, city rate, and national rate of graduation as values
+Convert all rates to percentages
+Insert a column pivot chart
+Set the city rate and national rate to secondary axes
+Reformatted the axes so that all of them have the same bounds
+Changed the chart type of the city and national rates to line charts for comparison
+Add labels and titles to the chart
+Add a data call out for city and national rates for clarity
