@@ -12,12 +12,10 @@ How do the high school graduation rates of Baltimore, Maryland and New York, New
 
 ## Data Sources – Open Data
 
-1.	[Opportunity Atlas](https://www.opportunityatlas.org/)
-They collect data from US cities on a variety of metrics including household income, incarceration rates, teenage birth rates, high school graduation rates, and more. Below is the data used in this analysis:
+1.	[Opportunity Atlas](https://www.opportunityatlas.org/): They collect data from US cities on a variety of metrics including household income, incarceration rates, teenage birth rates, high school graduation rates, and more. Below is the data used in this analysis:
 - [High School Graduation Rates in Baltimore, MD](https://github.com/cli103/hs-graduation-rates-baltimore-newyork/blob/main/shown_cty_hs_rP_gP_pall%20(1).csv)
 - [High School Graduation Rates in New York, NY](https://github.com/cli103/hs-graduation-rates-baltimore-newyork/blob/main/shown_cty_hs_rP_gP_pall.csv)
-2.	US News
-The [US News article](https://www.usnews.com/education/best-high-schools/articles/see-high-school-graduation-rates-by-state) was used to obtain information regarding the national average high school graduation rate. The reported national graduation rate is approximately 88% as of April 22, 2020. 
+2.	[US News](https://www.usnews.com/education/best-high-schools/articles/see-high-school-graduation-rates-by-state): The US News article was used to obtain information regarding the national average high school graduation rate. The reported national graduation rate is approximately 88% as of April 22, 2020. 
     The National Center for Education Statistics reports on [public high school graduation rates](https://nces.ed.gov/programs/coe/indicator_coi.asp#:~:text=The%20U.S.%20average%20ACGR%20for,85%20percent%20in%202017%E2%80%9318) and listed it as 85% in 2017-18, however, as the data excludes private high schools, I decided to use the statistic from the US News article.
 
 ## Data Analysis
